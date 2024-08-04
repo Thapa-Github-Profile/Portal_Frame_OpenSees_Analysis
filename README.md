@@ -34,10 +34,10 @@ The study evaluates five retrofitting interventions (RC Jacketing, Steel Jacketi
 
 The comparative analysis using pushover and fragility curves demonstrates the improved performance of retrofitted buildings. The findings underscore the importance of implementing retrofitting measures to mitigate seismic risks.
 ### Pushover Curve
-![Pushover Curve](images/pushover_curve.png)
+![Pushover Curve]()
 
 ### Fragility Curve
-![Fragility Curve](images/fragility_curve.png)
+![Fragility Curve](Graph/Fragility_pre_engineered_retrofitted.png)
 
 The pushover curve shows the load-displacement relationship, indicating the increased capacity of retrofitted buildings. The fragility curve illustrates the probability of reaching or exceeding various damage states, highlighting the enhanced seismic performance after retrofitting. It is observed that retrofitted buildings achived the performance of engineered buildings.
 
